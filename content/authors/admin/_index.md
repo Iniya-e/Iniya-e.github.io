@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ms Iniya
+title: Iniya
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -146,7 +146,7 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
+certifications:
   - title: Introduction to Digital Transformation - Change & Disruption
     url: https://www.coursera.org/account/accomplishments/verify/A3MIRBH5DX9K
     date: '2024-08-30'

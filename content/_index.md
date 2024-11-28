@@ -32,14 +32,12 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'About Me'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I am a curious and driven professional with a passion for innovation and continuous improvement. With experience in bioprocess automation, I thrive on solving real-world challenges, particularly in process design and quality assurance. Currently pursuing an MBA in Operations and Supply Chain, I aim to blend technical expertise with strategic insights to optimize efficiency and sustainability across supply chains.
+        I excel in collaborative environments, connecting cross-functional teams, streamlining workflows, and ensuring timely, impactful outcomes. Outside work, my creative pursuits like Mandala Art and Macrame inspire fresh perspectives and balance, fueling my approach to challenges with mindfulness and creativity.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
     design:
       columns: '1'
   - block: collection
