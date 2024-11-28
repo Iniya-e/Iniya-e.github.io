@@ -41,7 +41,7 @@ sections:
     design:
       columns: '2'
   - block: collection
-    id: papers
+    id: blogs
     content:
       title: Blogs
       filters:
