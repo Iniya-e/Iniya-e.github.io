@@ -48,8 +48,8 @@ interests:
 education:
   - area: MBA Operations & Supply Chain
     institution: MIT WPU, Pune
-    date_start: 2024-08
-    date_end: 2026-05
+    date_start: 2024-08-01
+    date_end: 2026-05-31
     summary: |
       With a foundation in biotechnology and experience as a Process Engineer, my MBA journey in Operations and Supply Chain Management is about transforming technical expertise into strategic solutions for optimizing processes and driving business growth
 
@@ -58,8 +58,8 @@ education:
       - Managerial Communications
   - area: M.Tech. (Integrated) Biotechnology
     institution: Dr. DY Patil Biotechnology and Bioinformatics Institute, Pune
-    date_start: 2017-08
-    date_end: 2022-06
+    date_start: 2017-08-01
+    date_end: 2022-06-30
     summary: |
       8.44 CGPA
 
@@ -72,8 +72,8 @@ work:
   - position: Bio Process Engineer
     company_name: DD Enterprises, Pune
     company_url: 'https://www.ddentp.com/'
-    date_start: 2022-07
-    date_end: '2024-04'
+    date_start: 2022-07-22
+    date_end: 2024-04-30
     summary: |2-
       Responsibilities include:
       - Completed 15+ projects by leading documentation efforts (FDS, Valve Matrix, and P&ID reviews) and performing Pre-FAT and FAT activities.
@@ -83,8 +83,8 @@ work:
     company_name: Serum Institute, Pune
     company_url: 'https://www.seruminstitute.com/'
     company_logo: ''
-    date_start: 2021-07
-    date_end: 2022-07
+    date_start: 2021-07-01
+    date_end: 2022-06-30
     summary: |
       Responsibilities include:
       - Experience in Development QA, Process QA, Equipment & utility Qualification, and management of QMS
@@ -92,8 +92,8 @@ work:
     company_name: Raptokos & Brett, Thane
     company_url: 'https://www.raptakos.com/'
     company_logo: ''
-    date_start: 2019-05
-    date_end: 2019-05
+    date_start: 2019-05-01
+    date_end: 2019-05-21
     summary: |
       Responsibilities include:
       - Experience in microbiological analysis of tablets & Syrups and Purified water testing
@@ -155,7 +155,7 @@ awards:
     summary: |
       Gained insights into how emerging technologies like VR, AR, blockchain, and AI are reshaping industries, while recognizing the importance of adaptability and tech-savviness in navigating the evolving digital landscape.
   - title: Optimization for Decision Making
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    url: https://www.coursera.org/account/accomplishments/verify/M337HJNME53H
     date: '2024-11-28'
     awarder: Coursera
     icon: coursera
