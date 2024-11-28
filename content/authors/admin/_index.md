@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Iniya
+title: Iniya Priyanandhini
 
 # Name pronunciation (optional)
 name_pronunciation: ''
