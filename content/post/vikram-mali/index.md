@@ -5,9 +5,9 @@ date: 2024-11-13
 authors:
   - admin
 tags:
-  - Hugo
-  - Hugo Blox
-  - Markdown
+  - Testimonial
+  - VIkram Mali
+  - DD Enterprises
 ---
 
 #### To, Whom so ever it may concern,
@@ -31,4 +31,5 @@ I have no doubt that they will make significant contributions to any organisatio
 #### Best Regards
 **Vikram Mali**
 Mob.: **+91-7875457733**
+
 Deputy General Manager - Bio Process Engineering.
