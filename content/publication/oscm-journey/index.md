@@ -22,11 +22,7 @@ publishDate: ''
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
-
-# Publication name and optional abbreviated publication name.
-# publication: In *Hugo Blox Builder Conference*
-# publication_short: In *ICW*
+publication_types: ['post-weblog']
 
 abstract: The blog chronicles the author's transition into supply chain management, driven by a passion for creating tangible societal impacts. It explores foundational experiences in bioprocess automation and a defining internship at the Serum Institute of India, which underscored the critical elements of supply chain efficiency and resilience. Pursuing an MBA further deepened the author’s understanding of strategic and technological dimensions, such as AI and blockchain. The narrative concludes with a vision of leading innovative, sustainable supply chain initiatives that address global challenges while fostering adaptability and collaboration.
 

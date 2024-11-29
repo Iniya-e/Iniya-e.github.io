@@ -22,11 +22,7 @@ publishDate: ''
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
-
-# Publication name and optional abbreviated publication name.
-# publication: In *Hugo Blox Builder Conference*
-# publication_short: In *ICW*
+publication_types: ['post-weblog']
 
 abstract: This document explores BMW's integration of digital twin technology within its automotive supply chain, highlighting its transformative impact on production, logistics, and sustainability. Digital twins enable BMW to simulate and optimize workflows, enhance transparency across global supply networks, and streamline inventory management. The technology also supports stringent quality control and sustainability initiatives by leveraging data-driven insights to minimize disruptions and environmental impact. By pioneering this advanced approach, BMW demonstrates the potential of digital transformations to redefine manufacturing processes, ensuring operational efficiency and setting new standards for the automotive industry.
 

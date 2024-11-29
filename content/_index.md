@@ -72,9 +72,9 @@ sections:
       view: article-grid
       columns: 1
   - block: collection
-    id: news
+    id: testimonials
     content:
-      title: Recent News
+      title: Testimonials
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
