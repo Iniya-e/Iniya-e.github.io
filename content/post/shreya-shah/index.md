@@ -24,4 +24,5 @@ Wishing Iniya every success in her career ahead.
 
 #### Best Regards
 **Shreya Shah**
-**Founder CEO** - Shreya Shah Educational Counselling and Training
+
+**Founder CEO - Shreya Shah Educational Counselling and Training**

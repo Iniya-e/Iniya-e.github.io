@@ -62,9 +62,9 @@ sections:
   #   design:
   #     view: citation
   - block: collection
-    id: talks
+    id: photos
     content:
-      title: Recent & Upcoming Talks
+      title: Photo Gallery
       filters:
         folders:
           - event

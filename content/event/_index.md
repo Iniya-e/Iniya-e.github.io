@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: Photo Gallery
 cms_exclude: true
 #url: talk
 

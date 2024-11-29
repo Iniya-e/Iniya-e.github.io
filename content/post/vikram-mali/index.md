@@ -30,6 +30,7 @@ I have no doubt that they will make significant contributions to any organisatio
 
 #### Best Regards
 **Vikram Mali**
+
 Mob.: **+91-7875457733**
 
-Deputy General Manager - Bio Process Engineering.
+**Deputy General Manager - Bio Process Engineering**
