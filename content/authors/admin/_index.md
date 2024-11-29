@@ -41,9 +41,10 @@ profiles:
     url: https://www.linkedin.com/in/iniyapriyanandhini-a39a77178/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Bioprocess Design & Automation
+  - Supply Chain Optimization
+  - Mandala Art
+  - Quality Assurance & Compliance
 
 education:
   - area: MBA Operations & Supply Chain
