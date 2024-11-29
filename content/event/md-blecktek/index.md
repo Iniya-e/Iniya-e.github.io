@@ -1,22 +1,22 @@
 ---
-title: Serum Institute
+title: Blecktek Solutions
 
-event: Serum Institute Helicopter Ride
+event: Blecktek Solutions visit
 # event_url: https://example.org
 
-location: Serum Institute of India Pvt. Ltd.
+location: Blecktek Solutions Pvt. Ltd.
 address:
-  street: 212/2
+  street: Flat No. A – 505, Kanchanban Society Phase II S. No. 109/1+3F
   city: Pune
   region: Maharashtra
-  postcode: '411028'
+  postcode: '412038'
   country: India
 
-summary: Aerial view of Serum Institute of India Pvt. Ltd. taken during a helicopter ride
+summary: Recieved a certificate for training an intern from the MD of the dd enterprises  - mr. sanjay dubey
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-05-17T13:00:00Z'
+date: '2024-11-03T11:30:00Z'
 # date_end: '2030-06-01T15:00:00Z'
 # all_day: false
 
@@ -32,7 +32,7 @@ tags: []
 featured: true
 
 image:
-  caption: 'Serum Institute'
+  caption: 'Blecktek Solutions'
   focal_point: Right
 
 #links:
